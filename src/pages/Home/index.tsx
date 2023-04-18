@@ -15,7 +15,7 @@ import styles from './index.less';
 
 const HomePage: React.FC = () => {
   const { name } = useModel('global');
-  const;
+  // const aa;
   return (
     <PageContainer ghost>
       <div className={styles.container}>

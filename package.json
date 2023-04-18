@@ -6,7 +6,7 @@
     "dev": "max dev",
     "format": "prettier --cache --write .",
     "postinstall": "max setup",
-    "lint": "umi lint",
+    "lint": "max lint",
     "prepare": "husky install",
     "setup": "max setup",
     "start": "npm run dev"
