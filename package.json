@@ -13,7 +13,7 @@
   },
   "lint-staged": {
     "*.{js,jsx,ts,tsx,css,less}": [
-      "umi lint"
+      "max lint"
     ]
   },
   "dependencies": {
