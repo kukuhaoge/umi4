@@ -33,6 +33,11 @@ export default defineConfig({
       path: '/table',
       component: './Table',
     },
+    {
+      name: ' CRUD 示例',
+      path: '/graph',
+      component: './Graph',
+    },
   ],
   npmClient: 'yarn',
 });
